@@ -42,7 +42,7 @@ title = "My New Hugo Site"
   accentColor = "#FF4D4D"
 
   # Resource URL for the site avatar (home page and header)
-  avatarURL = "slvl.jpg"
+  avatarURL = "checknew.jpg"
 
   # Describe the avatar for screen readers
   avatarAltText = "avatar"
