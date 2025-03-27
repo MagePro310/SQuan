@@ -42,13 +42,13 @@ title = "My New Hugo Site"
   accentColor = "#FF4D4D"
 
   # Resource URL for the site avatar (home page and header)
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "slvl.jpg"
 
   # Describe the avatar for screen readers
   avatarAltText = "avatar"
 
   # Set the avatar's size: size-xs, size-s, size-m, size-l & size-xl
-  avatarSize = "size-m"
+  avatarSize = "size-xl"
 
   # Inject arbitrary HTML via the <head> tag
   # Best used for importing custom JavaScript, CSS, or analytics
